@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.e39df4a3-aa78-11ec-8331-40a8f0002996 - Copy.jpg</filename>
+	<path>C:\Users\HP-1\realtimeobjectdetection\Tensorflow\workspace\images\collectedimages\hello.e39df4a3-aa78-11ec-8331-40a8f0002996 - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>162</ymin>
+			<xmax>640</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>
